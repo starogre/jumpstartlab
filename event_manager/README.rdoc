@@ -1,0 +1,10 @@
+Event Manager is a practice Ruby project that:
+
+1. Manipulates file input and output
+2. Reads content from a CSV (Comma Separated Value) file
+3. Transforms it into a standardized format
+4. Utilizes the data to contact a remote service
+5. Populates a template with user data
+6. Manipulates Strings
+7. Accesses Sunlight Congressional API through the Sunlight Congress gem
+8. Uses ERB (Embedded Ruby) for templating
